@@ -11,58 +11,97 @@
 <!-- Intro -->
 <p align="center">Hola, soy Miguel, un apasionado desarrollador web full stack con experiencia en tecnologías como Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, HTML5, CSS3, Bootstrap, NGINX, y más. Me encanta contribuir a proyectos open source y aprender cosas nuevas.</p>
 
-<!-- Proyectos Actuales -->
-<p align="center">🔭 Actualmente estoy trabajando en <a href="https://github.com/Miguel98R/fuegomexicano">Fuego Mexicano</a></p>
-
-<!-- Portafolio -->
-<p align="center">🌐 Visita mi portafolio en <a href="https://mikerosasdev.com">mikerosasdev.com</a> para ver más proyectos</p>
-
-<!-- Preguntas Frecuentes -->
-<p align="center">💬 ¿Tienes alguna pregunta sobre Node.js, React o cualquier otra tecnología? ¡Pregúntame!</p>
-
-<!-- Contacto -->
-<p align="center">📫 Contáctame en <a href="mailto:mikerosas.dev98@gmail.com">mikerosas.dev98@gmail.com</a></p>
-
-<!-- Redes Sociales -->
-<h3 align="center">Conéctate conmigo:</h3>
+# 💫 About Me:
 <p align="center">
-  <a href="https://linkedin.com/in/josemiguelrosas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  🔭 Currently working on Fuego Mexicano<br>
+  👯 Looking to collaborate on interesting projects<br>
+  🌱 Currently learning Next.js<br>
+  💬 Ask me about Node.js & MongoDB<br>
+  ⚡ Fun fact: I collect Funko Pops<br>
+  📚 Technologies I use: MongoDB, jQuery, JavaScript, Node.js, Pug.js, Bootstrap<br>
+  🎮 Hobbies: I enjoy urban and Christian music, and I'm a Marvel fan.<br>
+  ✉️ You can reach me at: mikerosas.dev98@gmail.com<br>
+  🌐 Explore my projects at: [mikerosasdev.com](https://mikerosasdev.com)<br>
+</p>
+
+## 🌐 Socials:
+<p align="center">
+  <a href="https://facebook.com/miguelrosasjmz">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://fb.com/miguelrosasjmz" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="https://instagram.com/miguelrosasjmz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://instagram.com/miguelrosasjmz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://linkedin.com/in/josemiguelrosas">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<!-- Lenguajes y Herramientas -->
-<h3 align="center">Lenguajes y Herramientas:</h3>
+# 💻 Tech Stack:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/swoodford/aws/blob/master/images/aws.png" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37" alt="Expo">
+  <img src="https://img.shields.io/badge/electron-191970?style=flat-square&logo=Electron&logoColor=white" alt="Electron.js">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt="JWT">
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/nodemon-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
+  <img src="https://img.shields.io/badge/pug-FFF?style=flat-square&logo=pug&logoColor=A86454" alt="Pug">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" alt="Socket.io">
+  <img src="https://img.shields.io/badge/wordpress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache">
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" alt="Firebase">
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro">
+  <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-<!-- Estadísticas de GitHub -->
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleganux1998&layout=compact&langs_count=8&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeleganux1998&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeleganux1998&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleganux1998&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
+
+### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeleganux1998&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
 </p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mikeleganux1998&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mikeleganux1998&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
