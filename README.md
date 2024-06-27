@@ -9,7 +9,7 @@
 </p>
 
 <!-- Intro -->
-<p align="center">Hola, soy Miguel, un apasionado desarrollador web full stack con experiencia en tecnologías como Node.js, React, MongoDB y más. Me encanta contribuir a proyectos open source y aprender cosas nuevas.</p>
+<p align="center">Hola, soy Miguel, un apasionado desarrollador web full stack con experiencia en tecnologías como Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, y más. Me encanta contribuir a proyectos open source y aprender cosas nuevas.</p>
 
 <!-- Proyectos Actuales -->
 <p align="center">🔭 Actualmente estoy trabajando en <a href="https://github.com/Miguel98R/fuegomexicano">Fuego Mexicano</a></p>
@@ -18,7 +18,7 @@
 <p align="center">🌐 Visita mi portafolio en <a href="https://mikerosasdev.com">mikerosasdev.com</a> para ver más proyectos</p>
 
 <!-- Preguntas Frecuentes -->
-<p align="center">💬 ¿Tienes alguna pregunta sobre Node.js o cualquier otra tecnología? ¡Pregúntame!</p>
+<p align="center">💬 ¿Tienes alguna pregunta sobre Node.js, React o cualquier otra tecnología? ¡Pregúntame!</p>
 
 <!-- Contacto -->
 <p align="center">📫 Contáctame en <a href="mailto:mikerosas.dev98@gmail.com">mikerosas.dev98@gmail.com</a></p>
@@ -47,7 +47,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
 </p>
 
 <!-- Estadísticas de GitHub -->
