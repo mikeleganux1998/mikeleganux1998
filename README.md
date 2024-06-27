@@ -66,7 +66,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikeleganux1998&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
-<!-- Animación del Snake -->
-<p align="center">
-  <img src="https://github.com/mikeleganux1998/mikeleganux1998/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
