@@ -1,6 +1,7 @@
 <!-- Header -->
-<h1 align="center">¡Hola! Soy Miguel Rosas 👋</h1>
-<h3 align="center">Desarrollador Full Stack apasionado de México 🇲🇽</h3>
+<h1 align="center">Hello! I'm Miguel Rosas 👋</h1>
+<h3 align="center">Passionate Full Stack Developer from Mexico 🇲🇽</h3>
+
 
 <!-- Badges -->
 <p align="center">
@@ -9,7 +10,7 @@
 </p>
 
 <!-- Intro -->
-<p align="center">Hola, soy Miguel, un apasionado desarrollador web full stack con experiencia en tecnologías como Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, HTML5, CSS3, Bootstrap, NGINX, y más. Me encanta contribuir a proyectos open source y aprender cosas nuevas.</p>
+<p align="center">Hello, I'm Miguel, a passionate full-stack web developer with experience in technologies such as Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, HTML5, CSS3, Bootstrap, NGINX, and more. I enjoy contributing to open-source projects and learning new things.</p>
 
 # 💫 About Me:
 <p align="center">
@@ -101,7 +102,3 @@
 </p>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=mikeleganux1998&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
