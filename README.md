@@ -9,7 +9,7 @@
 </p>
 
 <!-- Intro -->
-<p align="center">Hola, soy Miguel, un apasionado desarrollador web full stack con experiencia en tecnologías como Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, y más. Me encanta contribuir a proyectos open source y aprender cosas nuevas.</p>
+<p align="center">Hola, soy Miguel, un apasionado desarrollador web full stack con experiencia en tecnologías como Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, HTML5, CSS3, Bootstrap, NGINX, y más. Me encanta contribuir a proyectos open source y aprender cosas nuevas.</p>
 
 <!-- Proyectos Actuales -->
 <p align="center">🔭 Actualmente estoy trabajando en <a href="https://github.com/Miguel98R/fuegomexicano">Fuego Mexicano</a></p>
@@ -52,6 +52,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 </p>
 
 <!-- Estadísticas de GitHub -->
