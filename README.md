@@ -61,6 +61,8 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" alt="Socket.io">
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" alt="NestJS">
 
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
