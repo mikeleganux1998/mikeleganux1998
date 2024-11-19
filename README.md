@@ -10,7 +10,7 @@
 </p>
 
 <!-- Intro -->
-<p align="center">Hello, I'm Miguel, a passionate full-stack web developer with experience in technologies such as Node.js, React, MongoDB, Docker, AWS, MySQL, Express.js, HTML5, CSS3, Bootstrap, NGINX, and more. I enjoy contributing to open-source projects and learning new things.</p>
+<p align="center">Hello, I'm Miguel, a passionate full-stack web developer with experience in technologies such as Node.js, Vue js, MongoDB, Docker, AWS, MySQL, Express.js, HTML5, CSS3, Bootstrap, NGINX, and more. I enjoy contributing to open-source projects and learning new things.</p>
 
 # 💫 About Me:
 <p align="center">
