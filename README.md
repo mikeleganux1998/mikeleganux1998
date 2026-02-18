@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola! Soy <a href="https://mikerosasdev.com" target="_blank">Miguel Rosas</a> 👋</h1>
-  <p><strong>Full Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
+  <p><strong>Software Architect | Tech Lead | Full Stack Developer</strong></p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=mikeleganux1998&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitas">
@@ -10,38 +10,35 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🏛️ Perfil Profesional
 
-Soy un desarrollador Full Stack apasionado por crear soluciones escalables y eficientes. Actualmente, lidero iniciativas en **Team Mike** y me enfoco en el desarrollo de arquitecturas modernas utilizando el ecosistema de JavaScript/TypeScript.
+Soy **Software Architect** y **Tech Lead** con más de 5 años de experiencia liderando equipos técnicos y diseñando arquitecturas escalables. Mi enfoque combina la solidez técnica con el liderazgo estratégico para entregar productos de alta calidad en entornos productivos.
 
-- 🛠️ **Proyecto actual:** Sistema de Punto de Venta (POS) para cafeterías en Puerto Vallarta.
-- 🏗️ **Stack principal:** NestJS, Nuxt 3 y arquitecturas basadas en Microservicios.
-- 🎓 **Aprendizaje continuo:** Profundizando en Next.js y despliegues avanzados en AWS.
-- ⚡ **Dato curioso:** Soy un gran fan de Marvel, coleccionista de Funko Pops y fiel seguidor del Cruz Azul y el Real Madrid. ⚽
+- 🚀 **Especialidad:** Construcción de backends robustos, frontends estructurados y apps móviles multiplataforma.
+- ⚙️ **Metodología:** Aplicación de CI/CD, observabilidad y prácticas modernas de ingeniería de software.
+- 👥 **Liderazgo:** Mentoría técnica, formación de talento y adopción de buenas prácticas en equipos de desarrollo.
+- 🛠️ **Enfoque:** Optimización de pipelines, integración de servicios cloud y mantenimiento de soluciones estables.
 
 ---
 
-### 💻 Mi Stack Tecnológico
+### 💻 Stack Tecnológico
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Mobile & Desktop** | ![React Native](https://img.shields.io/badge/-React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
-| **Base de Datos** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Backend & Runtime** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=20232a) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=20232a) |
+| **Cloud (AWS)** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) <small>(EC2, ECS, S3, Polly, Transcribe, SNS, App Runner)</small> |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeleganux1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleganux1998&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeleganux1998&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -61,6 +58,6 @@ Soy un desarrollador Full Stack apasionado por crear soluciones escalables y efi
 </p>
 
 <p align="center">
-  <i>"El código es poesía, y yo soy un escritor con ganas de cambiar el mundo."</i><br>
-  © 2026 Mike Rosas Dev
+  <i>"Diseñando el presente, programando el futuro."</i><br>
+  © 2026 Mike Rosas Dev | ISC. Jose Miguel Rosas
 </p>
